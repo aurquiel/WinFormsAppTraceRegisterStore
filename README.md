@@ -14,4 +14,4 @@ This is an application to record the sales of a store and expenses by day, the a
 
 ## Main
 
-![main](docs/img/main.PNG)
+![main](docs/img/main.png)
