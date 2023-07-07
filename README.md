@@ -1,6 +1,6 @@
-# SelfmanagementStore
+# Trace Register Store
 
-This is an application to record the sales of a store and expenses by day, the applications connects to a REST API to upload and retrieve the records.
+This is an application to record the sales of a store and expenses by day, the applications connects to a REST API to upload and retrieve the records. Using a Token and Https connection.
 
 [WEB SERVICE APPI](https://github.com/aurquiel/WebApplicationTraceRegister)
 
@@ -14,4 +14,4 @@ This is an application to record the sales of a store and expenses by day, the a
 
 ## Main
 
-![main](docs/img/main.PNG)
+![main](docs/img/main.png)
